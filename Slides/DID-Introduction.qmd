@@ -6,7 +6,7 @@ author:
   - name: Brantly Callaway
 email: brantly.callaway@uga.edu
 affiliations: University of Georgia
-date: July 30, 2024
+date: August 1, 2024
 bibliography: refs.bib
 knitr:
   opts_chunk:
@@ -18,8 +18,8 @@ library(revealEquations)
 ```
 
 
-## Plan for the Session 
-<!--## Plan for the Workshop-->
+<!--## Plan for the Session--> 
+## Plan for the Workshop
 $\newcommand{\E}{\mathbb{E}}
 \newcommand{\E}{\mathbb{E}}
 \newcommand{\var}{\mathrm{var}}
@@ -65,9 +65,9 @@ $\newcommand{\E}{\mathbb{E}}
 
 ## Additional Resources
 
-<span class="alert">Additional Session Materials: </span> [https://bcallaway11.github.io/AAEA/](https://bcallaway11.github.io/AAEA/)
+<span class="alert">Additional Workshop Materials: </span> [https://bcallaway11.github.io/CDC/](https://bcallaway11.github.io/CDC/)
 
-  * Slides, code, etc. <!--for the workshop-->
+  * Slides, code, data, etc. <!--for the workshop-->
 
 . . .
 
