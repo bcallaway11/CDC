@@ -1,6 +1,6 @@
-# Difference-in-Differences Workshop at AAEA
+# Difference-in-Differences Mini-Course at CDC
 
-These are the materials for my Difference-in-Differences lecture at the 2024 AAEA Conference.
+These are the materials for my Difference-in-Differences lecture at the CDC on August 1, 2024.
 
 ## Introduction to Difference-in-Differences
 

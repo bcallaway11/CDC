@@ -17,9 +17,8 @@ knitr:
 library(revealEquations)
 ```
 
-
-<!--## Plan for the Session--> 
 ## Plan for the Workshop
+<!--## Plan for the Session--> 
 $\newcommand{\E}{\mathbb{E}}
 \newcommand{\E}{\mathbb{E}}
 \newcommand{\var}{\mathrm{var}}
